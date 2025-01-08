@@ -11,6 +11,8 @@ import dagshub
 dagshub.init(repo_owner='UpeshJeengar', repo_name='MLOps-Starting-with-MLflow', mlflow=True)
 
 mlflow.set_tracking_uri("https://dagshub.com/UpeshJeengar/MLOps-Starting-with-MLflow")
+mlflow.autolog()
+
 
 # Load Wine dataset
 wine = load_wine()
