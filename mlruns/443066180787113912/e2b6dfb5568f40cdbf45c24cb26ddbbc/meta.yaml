@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/443066180787113912/e2b6dfb5568f40cdbf45c24cb26ddbbc/artifacts
+end_time: 1736322430130
+entry_point_name: ''
+experiment_id: '443066180787113912'
+lifecycle_stage: active
+run_id: e2b6dfb5568f40cdbf45c24cb26ddbbc
+run_name: overjoyed-hog-412
+run_uuid: e2b6dfb5568f40cdbf45c24cb26ddbbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736322424285
+status: 3
+tags: []
+user_id: upesh
