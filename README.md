@@ -5,5 +5,7 @@ This repo has a complete demonstration of performing experiment tracking using m
  conda create -n mlops
  conda activate mlops
  pip install mlflow seaborn
- mlflow ui --port 5001  
+ cd src
+ python file1.py
+ mlflow ui --port 5001  #to monitor changes
  ```
